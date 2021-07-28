@@ -1,0 +1,6 @@
+/Users/cainluo/Desktop/Personal Project/CSExamples/FirstCSExample/02.Rectangle/bin/Debug/02.Rectangle.exe
+/Users/cainluo/Desktop/Personal Project/CSExamples/FirstCSExample/02.Rectangle/bin/Debug/02.Rectangle.pdb
+/Users/cainluo/Desktop/Personal Project/CSExamples/FirstCSExample/02.Rectangle/obj/anycpu/Debug/02.Rectangle.csproj.AssemblyReference.cache
+/Users/cainluo/Desktop/Personal Project/CSExamples/FirstCSExample/02.Rectangle/obj/anycpu/Debug/02.Rectangle.csproj.CoreCompileInputs.cache
+/Users/cainluo/Desktop/Personal Project/CSExamples/FirstCSExample/02.Rectangle/obj/anycpu/Debug/02.Rectangle.exe
+/Users/cainluo/Desktop/Personal Project/CSExamples/FirstCSExample/02.Rectangle/obj/anycpu/Debug/02.Rectangle.pdb
