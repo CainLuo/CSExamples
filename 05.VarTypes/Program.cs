@@ -6,8 +6,10 @@ namespace VarTypes {
             short a = 10;
             int b = 20;
             double c = a + b;
+            string name = "VarTypes";
 
-            Console.WriteLine("哈哈哈哈哈啊");
+            Console.WriteLine("{0}+{1}={2}", a,b,c);
+            Console.WriteLine("name: {0}", name);
             Console.ReadLine();
         }
     }

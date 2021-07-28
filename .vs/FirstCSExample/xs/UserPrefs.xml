@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{30257CC7-08F3-4E7B-8D6C-716EEB37A2B4}|Default">
+  <MonoDevelop.Ide.ItemProperties.05.VarTypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FirstCSExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.DataType/Program.cs">
+    <Files>
+      <File FileName="01.HelloWorld/Program.cs" Line="10" Column="2" />
+      <File FileName="02.Rectangle/Program.cs" Line="15" Column="24" />
+      <File FileName="05.VarTypes/Program.cs" Line="27" Column="37" />
+      <File FileName="04.TypeConversion/Program.cs" Line="16" Column="12" />
+      <File FileName="03.DataType/Program.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstCSExample" expanded="True">
+            <Node name="03.DataType" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="04.TypeConversion" expanded="True" />
+            <Node name="05.VarTypes" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.02.Rectangle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

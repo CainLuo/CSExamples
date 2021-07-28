@@ -9,11 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Rectangle", "02.Rectangl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.HelloWorld", "01.HelloWorld\01.HelloWorld.csproj", "{81669F7F-9E3F-490E-950E-7A1C7793C15D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DateType", "03.DateType\03.DateType.csproj", "{15F1244A-B803-4BAE-A5D4-353AD8286730}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.TypeConversion", "04.TypeConversion\04.TypeConversion.csproj", "{6FD716E2-9234-4971-9721-81AF5D41EE47}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.VarTypes", "05.VarTypes\05.VarTypes.csproj", "{30257CC7-08F3-4E7B-8D6C-716EEB37A2B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DataType", "03.DataType\03.DataType.csproj", "{15F1244A-B803-4BAE-A5D4-353AD8286730}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,10 +33,6 @@ Global
 		{81669F7F-9E3F-490E-950E-7A1C7793C15D}.Debug|anycpu.Build.0 = Debug|anycpu
 		{81669F7F-9E3F-490E-950E-7A1C7793C15D}.Release|anycpu.ActiveCfg = Release|anycpu
 		{81669F7F-9E3F-490E-950E-7A1C7793C15D}.Release|anycpu.Build.0 = Release|anycpu
-		{15F1244A-B803-4BAE-A5D4-353AD8286730}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{15F1244A-B803-4BAE-A5D4-353AD8286730}.Debug|anycpu.Build.0 = Debug|anycpu
-		{15F1244A-B803-4BAE-A5D4-353AD8286730}.Release|anycpu.ActiveCfg = Release|anycpu
-		{15F1244A-B803-4BAE-A5D4-353AD8286730}.Release|anycpu.Build.0 = Release|anycpu
 		{6FD716E2-9234-4971-9721-81AF5D41EE47}.Debug|anycpu.ActiveCfg = Debug|anycpu
 		{6FD716E2-9234-4971-9721-81AF5D41EE47}.Debug|anycpu.Build.0 = Debug|anycpu
 		{6FD716E2-9234-4971-9721-81AF5D41EE47}.Release|anycpu.ActiveCfg = Release|anycpu
@@ -45,6 +41,10 @@ Global
 		{30257CC7-08F3-4E7B-8D6C-716EEB37A2B4}.Debug|anycpu.Build.0 = Debug|anycpu
 		{30257CC7-08F3-4E7B-8D6C-716EEB37A2B4}.Release|anycpu.ActiveCfg = Release|anycpu
 		{30257CC7-08F3-4E7B-8D6C-716EEB37A2B4}.Release|anycpu.Build.0 = Release|anycpu
+		{15F1244A-B803-4BAE-A5D4-353AD8286730}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{15F1244A-B803-4BAE-A5D4-353AD8286730}.Debug|anycpu.Build.0 = Debug|anycpu
+		{15F1244A-B803-4BAE-A5D4-353AD8286730}.Release|anycpu.ActiveCfg = Release|anycpu
+		{15F1244A-B803-4BAE-A5D4-353AD8286730}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

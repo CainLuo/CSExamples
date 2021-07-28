@@ -1,0 +1,5 @@
+/Users/cainluo/Desktop/Personal Project/CSExamples/01.HelloWorld/bin/Debug/01.HelloWorld.exe
+/Users/cainluo/Desktop/Personal Project/CSExamples/01.HelloWorld/bin/Debug/01.HelloWorld.pdb
+/Users/cainluo/Desktop/Personal Project/CSExamples/01.HelloWorld/obj/anycpu/Debug/01.HelloWorld.csproj.CoreCompileInputs.cache
+/Users/cainluo/Desktop/Personal Project/CSExamples/01.HelloWorld/obj/anycpu/Debug/01.HelloWorld.exe
+/Users/cainluo/Desktop/Personal Project/CSExamples/01.HelloWorld/obj/anycpu/Debug/01.HelloWorld.pdb
