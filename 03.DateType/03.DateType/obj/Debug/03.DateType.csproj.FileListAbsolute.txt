@@ -1,0 +1,6 @@
+/Users/cainluo/Desktop/Personal Project/CSExamples/03.DateType/03.DateType/obj/Debug/03.DateType.csproj.AssemblyReference.cache
+/Users/cainluo/Desktop/Personal Project/CSExamples/03.DateType/03.DateType/obj/Debug/03.DateType.csproj.CoreCompileInputs.cache
+/Users/cainluo/Desktop/Personal Project/CSExamples/03.DateType/03.DateType/bin/Debug/03.DateType.exe
+/Users/cainluo/Desktop/Personal Project/CSExamples/03.DateType/03.DateType/bin/Debug/03.DateType.pdb
+/Users/cainluo/Desktop/Personal Project/CSExamples/03.DateType/03.DateType/obj/Debug/03.DateType.exe
+/Users/cainluo/Desktop/Personal Project/CSExamples/03.DateType/03.DateType/obj/Debug/03.DateType.pdb

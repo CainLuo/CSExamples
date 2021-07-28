@@ -1,0 +1,6 @@
+/Users/cainluo/Desktop/Personal Project/CSExamples/05.VarTypes/05.VarTypes/bin/Debug/05.VarTypes.exe
+/Users/cainluo/Desktop/Personal Project/CSExamples/05.VarTypes/05.VarTypes/bin/Debug/05.VarTypes.pdb
+/Users/cainluo/Desktop/Personal Project/CSExamples/05.VarTypes/05.VarTypes/obj/Debug/05.VarTypes.csproj.AssemblyReference.cache
+/Users/cainluo/Desktop/Personal Project/CSExamples/05.VarTypes/05.VarTypes/obj/Debug/05.VarTypes.csproj.CoreCompileInputs.cache
+/Users/cainluo/Desktop/Personal Project/CSExamples/05.VarTypes/05.VarTypes/obj/Debug/05.VarTypes.exe
+/Users/cainluo/Desktop/Personal Project/CSExamples/05.VarTypes/05.VarTypes/obj/Debug/05.VarTypes.pdb

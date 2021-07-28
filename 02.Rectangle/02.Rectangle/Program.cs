@@ -1,5 +1,7 @@
-using System;
+﻿using System;
+
 namespace RectangleApplication {
+
     class Rectangle {
         // 成员变量
         double length;
@@ -21,8 +23,8 @@ namespace RectangleApplication {
         }
     }
 
-    class ExecuteRectangle {
-        static void Main(string[] args) {
+    class MainClass {
+        public static void Main(string[] args) {
             Rectangle r = new Rectangle();
             r.Acceptdetails();
             r.Display();

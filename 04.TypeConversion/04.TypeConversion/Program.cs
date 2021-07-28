@@ -1,24 +1,8 @@
-using System;
-namespace TypeConversionApplication
-{
-    class ExplicitConversion
-    {
-        static void Main(string[] args)
-        {
-            double d = 5673.74;
-            int i;
+﻿using System;
 
-            // 强制转换double为int
-            i = (int)d;
-            Console.WriteLine(i);
-            Console.ReadKey();
-        }
-    }
-
-    class StringConversion
-    {
-        static void Main(string[] args)
-        {
+namespace TypeConversionApplication {
+    class MainClass {
+        public static void Main(string[] args) {
             int i = 75;
             float f = 53.005f;
             double d = 2345.7652;
@@ -31,11 +15,21 @@ namespace TypeConversionApplication
             Console.WriteLine("\n");
             Console.ReadKey();
 
-            StringConversion.StringToInt();
+            MainClass.StringToInt();
+            MainClass.ExplicitConversion();
         }
 
-        static void StringToInt()
-        {
+        static void ExplicitConversion() {
+            double d = 5673.74;
+            int i;
+
+            // 强制转换double为int
+            i = (int)d;
+            Console.WriteLine(i);
+            Console.ReadKey();
+        }
+
+        static void StringToInt() {
             string locstr = 123.ToString();
 
             // 方法一：用Convert

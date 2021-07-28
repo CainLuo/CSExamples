@@ -1,0 +1,6 @@
+/Users/cainluo/Desktop/Personal Project/CSExamples/04.TypeConversion/04.TypeConversion/obj/Debug/04.TypeConversion.csproj.AssemblyReference.cache
+/Users/cainluo/Desktop/Personal Project/CSExamples/04.TypeConversion/04.TypeConversion/obj/Debug/04.TypeConversion.csproj.CoreCompileInputs.cache
+/Users/cainluo/Desktop/Personal Project/CSExamples/04.TypeConversion/04.TypeConversion/bin/Debug/04.TypeConversion.exe
+/Users/cainluo/Desktop/Personal Project/CSExamples/04.TypeConversion/04.TypeConversion/bin/Debug/04.TypeConversion.pdb
+/Users/cainluo/Desktop/Personal Project/CSExamples/04.TypeConversion/04.TypeConversion/obj/Debug/04.TypeConversion.exe
+/Users/cainluo/Desktop/Personal Project/CSExamples/04.TypeConversion/04.TypeConversion/obj/Debug/04.TypeConversion.pdb
