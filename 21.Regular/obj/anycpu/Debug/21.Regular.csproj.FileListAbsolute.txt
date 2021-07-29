@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/21.Regular/bin/Debug/21.Regular.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/21.Regular/bin/Debug/21.Regular.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/21.Regular/obj/anycpu/Debug/21.Regular.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/21.Regular/obj/anycpu/Debug/21.Regular.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/21.Regular/obj/anycpu/Debug/21.Regular.pdb

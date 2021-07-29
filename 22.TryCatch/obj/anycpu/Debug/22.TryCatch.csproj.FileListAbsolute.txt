@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/22.TryCatch/bin/Debug/22.TryCatch.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/22.TryCatch/bin/Debug/22.TryCatch.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/22.TryCatch/obj/anycpu/Debug/22.TryCatch.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/22.TryCatch/obj/anycpu/Debug/22.TryCatch.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/22.TryCatch/obj/anycpu/Debug/22.TryCatch.pdb

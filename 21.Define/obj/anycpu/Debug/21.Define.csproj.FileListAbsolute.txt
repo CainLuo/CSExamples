@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/21.Define/bin/Debug/21.Define.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/21.Define/bin/Debug/21.Define.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/21.Define/obj/anycpu/Debug/21.Define.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/21.Define/obj/anycpu/Debug/21.Define.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/21.Define/obj/anycpu/Debug/21.Define.pdb

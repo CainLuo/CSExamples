@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/20.Namespace/bin/Debug/20.Namespace.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/20.Namespace/bin/Debug/20.Namespace.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/20.Namespace/obj/anycpu/Debug/20.Namespace.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/20.Namespace/obj/anycpu/Debug/20.Namespace.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/20.Namespace/obj/anycpu/Debug/20.Namespace.pdb

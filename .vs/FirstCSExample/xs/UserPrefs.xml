@@ -1,26 +1,29 @@
-﻿<Properties StartupConfiguration="{B6F57098-252F-4151-AB69-5DE25FF3A69A}|Default">
+﻿<Properties StartupConfiguration="{8ECE5D8C-A6A0-4AA5-82F5-A89C3BA46C3E}|Default">
   <MonoDevelop.Ide.ItemProperties.11.Nullable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.21.Regular PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.12.Array PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.22.TryCatch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.21.Define PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.09.Encapsulation PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10.Methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.20.Namespace PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.05.VarTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FirstCSExample PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.16.Class PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.19.OperatorOverloading PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.17.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="18.Polymorphic/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="23.InputOutput/Program.cs">
     <Files>
-      <File FileName="13.String/Program.cs" Line="85" Column="1" />
-      <File FileName="14.Struct/Program.cs" Line="55" Column="36" />
-      <File FileName="15.Enum/Program.cs" Line="23" Column="10" />
-      <File FileName="16.Class/Program.cs" Line="192" Column="1" />
-      <File FileName="17.Inheritance/Program.cs" Line="78" Column="6" />
-      <File FileName="18.Polymorphic/Program.cs" Line="10" Column="1" />
+      <File FileName="21.Define/Program.cs" Line="21" Column="6" />
+      <File FileName="21.Regular/Program.cs" Line="23" Column="43" />
+      <File FileName="22.TryCatch/Program.cs" Line="55" Column="10" />
+      <File FileName="23.InputOutput/Program.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FirstCSExample" expanded="True">
-            <Node name="18.Polymorphic" expanded="True">
+            <Node name="23.InputOutput" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -32,6 +35,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.07.Operators PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.23.InputOutput FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.01.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <DisabledProjects>
@@ -41,7 +45,7 @@
   <MonoDevelop.Ide.ItemProperties.08.Circulation PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.13.String PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.Rectangle PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.18.Polymorphic FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.18.Polymorphic PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.06.ConstantsTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

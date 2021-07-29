@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/23.InputOutput/bin/Debug/23.InputOutput.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/23.InputOutput/bin/Debug/23.InputOutput.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/23.InputOutput/obj/anycpu/Debug/23.InputOutput.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/23.InputOutput/obj/anycpu/Debug/23.InputOutput.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/23.InputOutput/obj/anycpu/Debug/23.InputOutput.pdb
