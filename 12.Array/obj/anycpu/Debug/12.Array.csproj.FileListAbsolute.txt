@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/12.Array/obj/anycpu/Debug/12.Array.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/12.Array/bin/Debug/12.Array.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/12.Array/bin/Debug/12.Array.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/12.Array/obj/anycpu/Debug/12.Array.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/12.Array/obj/anycpu/Debug/12.Array.pdb

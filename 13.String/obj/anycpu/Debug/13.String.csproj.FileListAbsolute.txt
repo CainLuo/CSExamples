@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/13.String/obj/anycpu/Debug/13.String.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/13.String/bin/Debug/13.String.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/13.String/bin/Debug/13.String.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/13.String/obj/anycpu/Debug/13.String.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/13.String/obj/anycpu/Debug/13.String.pdb

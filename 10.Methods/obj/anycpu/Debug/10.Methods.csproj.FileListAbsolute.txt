@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/10.Methods/bin/Debug/10.Methods.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/10.Methods/bin/Debug/10.Methods.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/10.Methods/obj/anycpu/Debug/10.Methods.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/10.Methods/obj/anycpu/Debug/10.Methods.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/10.Methods/obj/anycpu/Debug/10.Methods.pdb

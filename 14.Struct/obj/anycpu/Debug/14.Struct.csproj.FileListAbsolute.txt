@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/14.Struct/bin/Debug/14.Struct.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/14.Struct/bin/Debug/14.Struct.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/14.Struct/obj/anycpu/Debug/14.Struct.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/14.Struct/obj/anycpu/Debug/14.Struct.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/14.Struct/obj/anycpu/Debug/14.Struct.pdb

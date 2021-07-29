@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/09.Encapsulation/bin/Debug/09.Encapsulation.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/09.Encapsulation/bin/Debug/09.Encapsulation.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/09.Encapsulation/obj/anycpu/Debug/09.Encapsulation.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/09.Encapsulation/obj/anycpu/Debug/09.Encapsulation.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/09.Encapsulation/obj/anycpu/Debug/09.Encapsulation.pdb

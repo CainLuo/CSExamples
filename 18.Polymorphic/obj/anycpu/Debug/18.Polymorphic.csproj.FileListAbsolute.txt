@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/18.Polymorphic/bin/Debug/18.Polymorphic.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/18.Polymorphic/bin/Debug/18.Polymorphic.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/18.Polymorphic/obj/anycpu/Debug/18.Polymorphic.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/18.Polymorphic/obj/anycpu/Debug/18.Polymorphic.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/18.Polymorphic/obj/anycpu/Debug/18.Polymorphic.pdb

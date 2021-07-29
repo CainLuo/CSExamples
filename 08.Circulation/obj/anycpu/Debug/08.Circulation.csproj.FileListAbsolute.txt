@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/08.Circulation/bin/Debug/08.Circulation.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/08.Circulation/bin/Debug/08.Circulation.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/08.Circulation/obj/anycpu/Debug/08.Circulation.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/08.Circulation/obj/anycpu/Debug/08.Circulation.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/08.Circulation/obj/anycpu/Debug/08.Circulation.pdb

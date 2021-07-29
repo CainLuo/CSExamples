@@ -1,0 +1,6 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/07.Operators/bin/Debug/07.Operators.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/07.Operators/bin/Debug/07.Operators.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/07.Operators/obj/anycpu/Debug/07.Operators.csproj.AssemblyReference.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/07.Operators/obj/anycpu/Debug/07.Operators.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/07.Operators/obj/anycpu/Debug/07.Operators.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/07.Operators/obj/anycpu/Debug/07.Operators.pdb

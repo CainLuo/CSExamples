@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/16.Class/bin/Debug/16.Class.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/16.Class/bin/Debug/16.Class.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/16.Class/obj/anycpu/Debug/16.Class.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/16.Class/obj/anycpu/Debug/16.Class.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/16.Class/obj/anycpu/Debug/16.Class.pdb

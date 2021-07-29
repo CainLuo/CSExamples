@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/17.Inheritance/obj/anycpu/Debug/17.Inheritance.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/17.Inheritance/bin/Debug/17.Inheritance.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/17.Inheritance/bin/Debug/17.Inheritance.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/17.Inheritance/obj/anycpu/Debug/17.Inheritance.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/17.Inheritance/obj/anycpu/Debug/17.Inheritance.pdb

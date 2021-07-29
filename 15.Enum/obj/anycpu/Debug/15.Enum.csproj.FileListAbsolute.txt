@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/15.Enum/bin/Debug/15.Enum.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/15.Enum/bin/Debug/15.Enum.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/15.Enum/obj/anycpu/Debug/15.Enum.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/15.Enum/obj/anycpu/Debug/15.Enum.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/15.Enum/obj/anycpu/Debug/15.Enum.pdb
