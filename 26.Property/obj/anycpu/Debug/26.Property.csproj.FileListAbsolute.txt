@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/26.Property/bin/Debug/26.Property.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/26.Property/bin/Debug/26.Property.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/26.Property/obj/anycpu/Debug/26.Property.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/26.Property/obj/anycpu/Debug/26.Property.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/26.Property/obj/anycpu/Debug/26.Property.pdb

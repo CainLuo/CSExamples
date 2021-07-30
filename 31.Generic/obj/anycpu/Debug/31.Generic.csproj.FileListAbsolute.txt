@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/31.Generic/bin/Debug/31.Generic.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/31.Generic/bin/Debug/31.Generic.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/31.Generic/obj/anycpu/Debug/31.Generic.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/31.Generic/obj/anycpu/Debug/31.Generic.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/31.Generic/obj/anycpu/Debug/31.Generic.pdb

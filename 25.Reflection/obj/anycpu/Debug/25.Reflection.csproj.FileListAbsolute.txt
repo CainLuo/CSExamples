@@ -1,0 +1,6 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/25.Reflection/bin/Debug/25.Reflection.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/25.Reflection/bin/Debug/25.Reflection.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/25.Reflection/obj/anycpu/Debug/25.Reflection.csproj.AssemblyReference.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/25.Reflection/obj/anycpu/Debug/25.Reflection.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/25.Reflection/obj/anycpu/Debug/25.Reflection.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/25.Reflection/obj/anycpu/Debug/25.Reflection.pdb

@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/29.Event/bin/Debug/29.Event.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/29.Event/bin/Debug/29.Event.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/29.Event/obj/anycpu/Debug/29.Event.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/29.Event/obj/anycpu/Debug/29.Event.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/29.Event/obj/anycpu/Debug/29.Event.pdb

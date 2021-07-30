@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/27.Indexer/bin/Debug/27.Indexer.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/27.Indexer/bin/Debug/27.Indexer.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/27.Indexer/obj/anycpu/Debug/27.Indexer.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/27.Indexer/obj/anycpu/Debug/27.Indexer.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/27.Indexer/obj/anycpu/Debug/27.Indexer.pdb

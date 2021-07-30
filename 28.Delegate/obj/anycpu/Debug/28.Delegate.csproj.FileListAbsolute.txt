@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/28.Delegate/bin/Debug/28.Delegate.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/28.Delegate/bin/Debug/28.Delegate.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/28.Delegate/obj/anycpu/Debug/28.Delegate.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/28.Delegate/obj/anycpu/Debug/28.Delegate.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/28.Delegate/obj/anycpu/Debug/28.Delegate.pdb

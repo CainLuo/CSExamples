@@ -1,0 +1,6 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/24.Attribute/bin/Debug/24.Attribute.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/24.Attribute/bin/Debug/24.Attribute.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/24.Attribute/obj/anycpu/Debug/24.Attribute.csproj.AssemblyReference.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/24.Attribute/obj/anycpu/Debug/24.Attribute.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/24.Attribute/obj/anycpu/Debug/24.Attribute.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/24.Attribute/obj/anycpu/Debug/24.Attribute.pdb

@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/30.Collection/bin/Debug/30.Collection.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/30.Collection/bin/Debug/30.Collection.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/30.Collection/obj/anycpu/Debug/30.Collection.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/30.Collection/obj/anycpu/Debug/30.Collection.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/30.Collection/obj/anycpu/Debug/30.Collection.pdb
