@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/32.AnonymousMethods/bin/Debug/32.AnonymousMethods.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/32.AnonymousMethods/bin/Debug/32.AnonymousMethods.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/32.AnonymousMethods/obj/anycpu/Debug/32.AnonymousMethods.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/32.AnonymousMethods/obj/anycpu/Debug/32.AnonymousMethods.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/32.AnonymousMethods/obj/anycpu/Debug/32.AnonymousMethods.pdb

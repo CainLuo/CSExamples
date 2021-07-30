@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/34.Thread/bin/Debug/34.Thread.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/34.Thread/bin/Debug/34.Thread.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/34.Thread/obj/anycpu/Debug/34.Thread.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/34.Thread/obj/anycpu/Debug/34.Thread.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/34.Thread/obj/anycpu/Debug/34.Thread.pdb

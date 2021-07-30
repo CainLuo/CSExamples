@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{C4ED23D1-8667-4C89-BFE4-B505337BAC14}|Default">
+﻿<Properties StartupConfiguration="{24F933C1-9589-43E9-91D2-E20DBB385D60}|Default">
   <MonoDevelop.Ide.ItemProperties.11.Nullable PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.21.Regular PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.30.Collection PreferredExecutionTarget="MonoDevelop.Default" />
@@ -7,7 +7,9 @@
   <MonoDevelop.Ide.ItemProperties.22.TryCatch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.21.Define PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.09.Encapsulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.34.Thread FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.24.Attribute PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.33.UnsafeCode PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10.Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.20.Namespace PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.05.VarTypes PreferredExecutionTarget="MonoDevelop.Default" />
@@ -15,18 +17,23 @@
   <MonoDevelop.Ide.ItemProperties.16.Class PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.19.OperatorOverloading PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.17.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="31.Generic/GenericDelegate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="34.Thread/Program.cs">
     <Files>
-      <File FileName="31.Generic/Program.cs" Line="39" Column="2" />
-      <File FileName="31.Generic/MyGenericArray.cs" Line="17" Column="2" />
-      <File FileName="31.Generic/GenericDelegate.cs" Line="2" Column="14" />
+      <File FileName="31.Generic/Program.cs" Line="15" Column="2" />
+      <File FileName="31.Generic/MyGenericArray.cs" Line="45" Column="38" />
+      <File FileName="31.Generic/GenericDelegate.cs" Line="29" Column="58" />
+      <File FileName="32.AnonymousMethods/Program.cs" Line="39" Column="29" />
+      <File FileName="32.AnonymousMethods/Properties/AssemblyInfo.cs" Line="27" Column="1" />
+      <File FileName="33.UnsafeCode/UnSafeClass.cs" Line="43" Column="39" />
+      <File FileName="33.UnsafeCode/Program.cs" Line="20" Column="2" />
+      <File FileName="34.Thread/Program.cs" Line="2" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FirstCSExample" expanded="True">
-            <Node name="31.Generic" expanded="True">
-              <Node name="GenericDelegate.cs" selected="True" />
+            <Node name="34.Thread" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -51,6 +58,7 @@
   <MonoDevelop.Ide.ItemProperties.08.Circulation PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.13.String PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.Rectangle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.32.AnonymousMethods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.18.Polymorphic PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.06.ConstantsTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

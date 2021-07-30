@@ -1,0 +1,5 @@
+/Users/yykj0048/Desktop/C#Project/CSExamples/33.UnsafeCode/obj/anycpu/Debug/33.UnsafeCode.csproj.CoreCompileInputs.cache
+/Users/yykj0048/Desktop/C#Project/CSExamples/33.UnsafeCode/bin/Debug/33.UnsafeCode.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/33.UnsafeCode/bin/Debug/33.UnsafeCode.pdb
+/Users/yykj0048/Desktop/C#Project/CSExamples/33.UnsafeCode/obj/anycpu/Debug/33.UnsafeCode.exe
+/Users/yykj0048/Desktop/C#Project/CSExamples/33.UnsafeCode/obj/anycpu/Debug/33.UnsafeCode.pdb
