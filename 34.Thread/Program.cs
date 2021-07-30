@@ -78,7 +78,7 @@ namespace ThreadApplication {
             Console.WriteLine();
 
             ThreadManager.startThread();
-            Console.WriteLine();
+            Console.ReadLine();
 
             DeintThread.startThread();
 
