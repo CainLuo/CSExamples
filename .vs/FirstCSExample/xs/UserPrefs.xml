@@ -7,7 +7,7 @@
   <MonoDevelop.Ide.ItemProperties.22.TryCatch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.21.Define PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.09.Encapsulation PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.34.Thread FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.34.Thread PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.24.Attribute PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.33.UnsafeCode PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10.Methods PreferredExecutionTarget="MonoDevelop.Default" />
@@ -26,15 +26,13 @@
       <File FileName="32.AnonymousMethods/Properties/AssemblyInfo.cs" Line="27" Column="1" />
       <File FileName="33.UnsafeCode/UnSafeClass.cs" Line="43" Column="39" />
       <File FileName="33.UnsafeCode/Program.cs" Line="20" Column="2" />
-      <File FileName="34.Thread/Program.cs" Line="2" Column="24" />
+      <File FileName="34.Thread/Program.cs" Line="89" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FirstCSExample" expanded="True">
-            <Node name="34.Thread" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="34.Thread" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
