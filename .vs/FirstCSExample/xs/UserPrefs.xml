@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿<Properties StartupConfiguration="{24F933C1-9589-43E9-91D2-E20DBB385D60}|Default">
   <MonoDevelop.Ide.ItemProperties.11.Nullable PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.21.Regular PreferredExecutionTarget="MonoDevelop.Default" />
@@ -12,6 +13,9 @@
   <MonoDevelop.Ide.ItemProperties.33.UnsafeCode PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.10.Methods PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.20.Namespace PreferredExecutionTarget="MonoDevelop.Default" />
+=======
+﻿<Properties StartupConfiguration="{8ECE5D8C-A6A0-4AA5-82F5-A89C3BA46C3E}|Default">
+>>>>>>> Stashed changes
   <MonoDevelop.Ide.ItemProperties.05.VarTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.FirstCSExample PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.16.Class PreferredExecutionTarget="MonoDevelop.Default" />
@@ -19,6 +23,7 @@
   <MonoDevelop.Ide.ItemProperties.17.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="34.Thread/Program.cs">
     <Files>
+<<<<<<< Updated upstream
       <File FileName="31.Generic/Program.cs" Line="15" Column="2" />
       <File FileName="31.Generic/MyGenericArray.cs" Line="45" Column="38" />
       <File FileName="31.Generic/GenericDelegate.cs" Line="29" Column="58" />
@@ -27,13 +32,24 @@
       <File FileName="33.UnsafeCode/UnSafeClass.cs" Line="43" Column="39" />
       <File FileName="33.UnsafeCode/Program.cs" Line="20" Column="2" />
       <File FileName="34.Thread/Program.cs" Line="89" Column="1" />
+=======
+      <File FileName="01.HelloWorld/Program.cs" Line="10" Column="2" />
+      <File FileName="02.Rectangle/Program.cs" Line="15" Column="24" />
+      <File FileName="05.VarTypes/Program.cs" Line="12" Column="50" />
+      <File FileName="04.TypeConversion/Program.cs" Line="16" Column="12" />
+      <File FileName="03.DataType/Program.cs" Line="68" Column="8" />
+>>>>>>> Stashed changes
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
+<<<<<<< Updated upstream
           <Node name="FirstCSExample" expanded="True">
             <Node name="34.Thread" expanded="True" selected="True" />
           </Node>
+=======
+          <Node name="FirstCSExample" expanded="True" selected="True" />
+>>>>>>> Stashed changes
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -41,11 +57,15 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+<<<<<<< Updated upstream
   <MonoDevelop.Ide.ItemProperties.26.Property PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.07.Operators PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.23.InputOutput PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.27.Indexer PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.25.Reflection PreferredExecutionTarget="MonoDevelop.Default" />
+=======
+  <MonoDevelop.Ide.ItemProperties.23.InputOutput PreferredExecutionTarget="MonoDevelop.Default" />
+>>>>>>> Stashed changes
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.01.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <DisabledProjects>
