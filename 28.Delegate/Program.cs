@@ -1,6 +1,7 @@
-﻿// 普通代理
-//using System;
+﻿using System;
+using System.IO;
 
+// 普通代理
 //delegate int NumberChanger(int n);
 
 //namespace DelegateAppl {
@@ -34,8 +35,6 @@
 //}
 
 // 多播代理
-//using System;
-
 //delegate int NumberChanger(int n);
 
 //namespace DelegateAppl {
@@ -79,46 +78,82 @@
 //}
 
 // 输出代理
-using System;
-using System.IO;
+//namespace DelegateAppl {
 
-namespace DelegateAppl {
+//    class PrintString {
+//        static FileStream fs;
+//        static StreamWriter sw;
 
-    class PrintString {
-        static FileStream fs;
-        static StreamWriter sw;
+//        // 委托声明
+//        public delegate void printString(string s);
 
-        // 委托声明
-        public delegate void printString(string s);
+//        // 该方法打印到控制台
+//        public static void WriteToScreen(string str) {
+//            Console.WriteLine("The String is: {0}", str);
+//        }
 
-        // 该方法打印到控制台
-        public static void WriteToScreen(string str) {
-            Console.WriteLine("The String is: {0}", str);
+//        // 该方法打印到文件
+//        public static void WriteToFile(string s) {
+//            fs = new FileStream("c:\\message.txt", FileMode.Append, FileAccess.Write);
+//            sw = new StreamWriter(fs);
+//            sw.WriteLine(s);
+//            sw.Flush();
+//            sw.Close();
+//            fs.Close();
+//        }
+
+//        // 该方法把委托作为参数，并使用它调用方法
+//        public static void sendString(printString ps) {
+//            ps("Hello World");
+//        }
+
+//        static void Main(string[] args) {
+//            printString ps1 = new printString(WriteToScreen);
+//            printString ps2 = new printString(WriteToFile);
+
+//            sendString(ps1);
+//            sendString(ps2);
+
+//            Console.ReadKey();
+//        }
+//    }
+//}
+
+// 代理示例1
+namespace DelegateApplication1 {
+
+    public delegate void SaySomethind(string content);
+
+    class MyClass {
+
+        public static void sayHello(string name) {
+            Console.WriteLine("Hello " + name + "!");
         }
 
-        // 该方法打印到文件
-        public static void WriteToFile(string s) {
-            fs = new FileStream("c:\\message.txt", FileMode.Append, FileAccess.Write);
-            sw = new StreamWriter(fs);
-            sw.WriteLine(s);
-            sw.Flush();
-            sw.Close();
-            fs.Close();
+        public static void sayNiceToMeetYou(string name) {
+            Console.WriteLine("Nice to meet you, " + name + "!");
         }
 
-        // 该方法把委托作为参数，并使用它调用方法
-        public static void sendString(printString ps) {
-            ps("Hello World");
+        public static void say(SaySomethind s) {
+            s("Hello World");
         }
 
         static void Main(string[] args) {
-            printString ps1 = new printString(WriteToScreen);
-            printString ps2 = new printString(WriteToFile);
+            SaySomethind say1 = new SaySomethind(sayHello);
+            SaySomethind say2 = new SaySomethind(sayNiceToMeetYou);
 
-            sendString(ps1);
-            sendString(ps2);
+            say1("小明");
+            say2("小红");
 
-            Console.ReadKey();
+            SaySomethind say3;
+            // 赋值操作
+            say3 = say1;
+            // 代理方法绑定操作
+            say3 += say2;
+            // 取消绑定操作
+            say3 -= say2;
+
+            Console.ReadLine();
         }
     }
 }
